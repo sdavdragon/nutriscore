@@ -1,3 +1,3 @@
 # TEST HEADING
 ## second heading
-**bold**
+*bold*
