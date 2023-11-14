@@ -19,7 +19,18 @@ Son calcul consiste à faire la différence, **pour 100 gr ou 100 mL de produit*
 Le nutri-score fournit au consommateur, sur la face visible des emballages alimentaires, une information lisible et facilement compréhensible sur la qualité nutritionnelle globale des produits, au moment où il fait ses courses. Ce dernier peut ainsi comparer les produits et orienter ses choix vers des aliments de meilleure qualité nutritionnelle.. Lancé en France en 2017, plusieurs pays ont depuis décidé de recommander son utilisation. Dans une poursuite de plus grande efficacité, les autorités compétentes de Belgique, France, Allemagne, Luxembourg, Pays-Bas, Espagne et Suisse ont mis en place un mécanisme de coordination transnational pour **faciliter l'utilisation de l'étiquetage nutritionnel Nutri-Score** sur la face avant des emballages.
 
 ### **4) Quelles sont les limites ou les critiques rencontrées par ce jeu données ?**
+- Jeu de données axé sur les aspects quantitatifs plutôt que qualitatifs des produits. 
+- Le degré de transformation des produits n’est pas considéré, ni la présence éventuelle d’additifs, d’allergènes, d’arômes et d’édulcorants artificiels. + degré présence pesticides
+- Le calcul par portion de 100g n’est pas adapté à tous les produits : là où pour certains aliments il s’agit de la quantité recommandée par jour (ex : pâtes), pour d’autres cela n’est pas du tout le cas (ex : huile) -> non prise en compte de l’équilibre alimentaire
+- Les producteurs ne sont pas dans l’obligation de soumettre leurs produits au nutri-score. 
 
 ### **5) Quelles réalités ces données/indicateurs sont-ils censés représenter ?**
-<img src="declinaison-logo-nutriscore.jpg" width="647" height="75">
+Ces données/indicateurs sont censés représenter la valeur nutritionnelle réelle des produits alimentaires que nous consommons, transformés notamment.
+### **Consignes :**
+- Interviewer (ou enquêter) sur les gestionnaires de la base de données
+- Explorer les données, la forme de la base de données, son ontologie sous-jacente
+- Interviewer des chercheurs, journalistes activistes utilisant ou critiquant cette base de données
+- Rencontrer des usagers de la base de données (éventuellement et selon la base de données) 
+- Imaginer des représentations des données
+
 
