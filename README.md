@@ -25,7 +25,7 @@ Le nutri-score fournit au consommateur, sur la face visible des emballages alime
 - Le calcul par portion de 100g n’est pas adapté à tous les produits : là où pour certains aliments il s’agit de la quantité recommandée par jour (ex : pâtes), pour d’autres cela n’est pas du tout le cas (ex : huile) -> non prise en compte de l’équilibre alimentaire
 - Les producteurs ne sont pas dans l’obligation de soumettre leurs produits au nutri-score. 
 
-### **5) Quelles réalités ces données/indicateurs sont-ils censés représenter ?**
+### **5) Quelles réalités ces données / indicateurs sont-ils censés représenter ?**
 Ces données/indicateurs sont censés représenter la valeur nutritionnelle réelle des produits alimentaires que nous consommons, transformés notamment.
 ### **Consignes :**
 - Interviewer (ou enquêter) sur les gestionnaires de la base de données
